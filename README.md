@@ -7,8 +7,10 @@ This is the official repository of the CVPR 2024 paper **"GOV-NeSF: Generalizabl
 To get started, follow the [Installation from NeRF-Det](https://github.com/facebookresearch/NeRF-Det) and install ```requirements.txt```.
 
 
-## Acquiring Datasets
-You can download our preprocessed subset of ScanNet [here](https://drive.google.com/file/d/1GjfdpOi8ukJrvFSOplk-zkTlIeUx99Iv/view?usp=drive_link). And you should change the data path in ```configs/gov_nesf/**.py``` accordingly.
+## Acquiring Datasets and Models
+You can download our preprocessed subset of ScanNet [here](https://drive.google.com/file/d/1GjfdpOi8ukJrvFSOplk-zkTlIeUx99Iv/view?usp=drive_link). And you should change the data path in ```configs/gov_nesf/**.py``` accordingly. 
+
+You can download our pre-trained model [here](https://drive.google.com/file/d/1CoIUp6hcJeO56jUBcFFMdqnIo9gpehm_/view?usp=sharing).
 
 ## Running the Code
 
